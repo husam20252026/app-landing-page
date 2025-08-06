@@ -8704,7 +8704,7 @@ box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1), inset 0 4px 8px rgba(255, 255, 255, 0.
   padding: 0 15%;
   position: fixed;
   inset: 0% 0% auto;
-  box-shadow: 0 2px 8px #000000;
+  box-shadow: 0 2px 8px #ff7702;
 }
 
 .hamburger {
@@ -10731,7 +10731,7 @@ box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1), inset 0 4px 8px rgba(255, 255, 255, 0.
   grid-column-gap: 30px;
   grid-row-gap: 30px;
   /* background-color: #f7f7f7; */
-  background: radial-gradient(circle at 0% 0%, #4f008c, #190237, #00c48c ) !important;
+  background: radial-gradient(circle at 0% 0%, #4f008c, #190237 ) !important;
   background-image: none;
   border-radius: 50px;
   flex-flow: column;
@@ -11216,7 +11216,7 @@ box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1), inset 0 4px 8px rgba(255, 255, 255, 0.
 }
 
 .navbar-link-mobile {
-  color: #F6F6F6;
+  color: #00c48c;
   border-bottom: 1px #0000;
   margin-left: 0;
   margin-right: 0;
@@ -11228,7 +11228,7 @@ box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1), inset 0 4px 8px rgba(255, 255, 255, 0.
 
 .navbar-link-mobile:hover {
   opacity: 1;
-  color: #ff6f4c;
+  color: #ff7702;
   border-bottom-style: none;
   border-bottom-color: #000;
 }
@@ -12071,7 +12071,7 @@ box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1), inset 0 4px 8px rgba(255, 255, 255, 0.
   .navbar-menu-buttons {
     z-index: 40;
     -webkit-text-fill-color: inherit;
-    background-color: #fff;
+    background-color: #190237;
     background-clip: border-box;
     border-bottom: 1px #000;
     flex-direction: row;
@@ -12916,7 +12916,7 @@ box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1), inset 0 4px 8px rgba(255, 255, 255, 0.
 
   .hamburger_line-top,
   .hamburger_line-middle {
-    background-color: #434de7;
+    background-color: #fff;
   }
 
   .navbar-menu {
@@ -12928,7 +12928,7 @@ box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1), inset 0 4px 8px rgba(255, 255, 255, 0.
   }
 
   .hamburger_line-bottom {
-    background-color: #434de7;
+    background-color: #fff;
   }
 
   .video {
